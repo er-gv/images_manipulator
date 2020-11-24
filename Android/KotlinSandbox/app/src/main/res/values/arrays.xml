@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <integer-array name="dice_faces">
+        <item>@drawable/dice_1</item>
+        <item>@drawable/dice_2</item>
+        <item>@drawable/dice_3</item>
+        <item>@drawable/dice_4</item>
+        <item>@drawable/dice_5</item>
+        <item>@drawable/dice_6</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kotlin Sandbox</string>
+    <string name="to">Burr</string>
+    <string name="from">Alex</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="lots_love">Lots of love</string>
+    <string name="dice_roll_caption">Dice Roller Animation</string>
+    <string name="roll_now">ROLL!</string>
+    <string name="ok_2_5">OK - 2.5%</string>
+    <string name="superb_10">Superb: 10%</string>
+    <string name="amazing_15">Amazing - 15%</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="calculate_tip">CALCULATE TIP</string>
+    <string name="round_up_tip">Round up Tip?</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="tip_amount">Tip Amount: </string>
+</resources>
